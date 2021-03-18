@@ -10,3 +10,6 @@ pytest
 tox
 flake8
 autopep8
+flask
+gunicorn
+joblib
